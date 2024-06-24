@@ -1,0 +1,45 @@
+name: movienest2
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  carousel_slider: ^4.2.1
+  firebase_core: ^3.1.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: ^5.0.1
+  # url_launcher: ^6.1.7
+  # video_player: ^2.8.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images/3.jpg
+  - images/4.jpg
+  - images/5.jpg
+  - images/6.jpg
+  - images/7.jpg
+  - images/8.jpg
+  - images/9.jpg
+  - images/Up1.jpg
+  - images/Up2.jpg
+  - images/Up3.jpg
+  - images/Up4.jpg
+  - images/Up5.jpg
+  - images/Up6.jpg
+  - images/login.jpg
+  - images/profile.jpg

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "849504522821",
+    "firebase_url": "https://api-apb-default-rtdb.firebaseio.com",
+    "project_id": "api-apb",
+    "storage_bucket": "api-apb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849504522821:android:10dfcb97db934c2251092c",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHguPTd8-gaTAwknyRZtZAZow2AhF_o9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849504522821:android:2906f4034b35ac9b51092c",
+        "android_client_info": {
+          "package_name": "com.example.movienest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHguPTd8-gaTAwknyRZtZAZow2AhF_o9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849504522821:android:6fbd596c9481828f51092c",
+        "android_client_info": {
+          "package_name": "com.example.tubes_apb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHguPTd8-gaTAwknyRZtZAZow2AhF_o9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
